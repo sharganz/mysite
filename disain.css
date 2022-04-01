@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(255, 165, 29);
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.flex
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+h2{
+  background-image: url();
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+h3{
+    background-color: azure;
+    text-decoration: underline;
+
+}
